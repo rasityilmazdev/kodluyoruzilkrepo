@@ -22,3 +22,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License
 
 [MIT](LICENSE)
+
+# Project Screenshot
+
+![foto](projeSS.png)
